@@ -1,0 +1,7 @@
+{
+  "name": "ionix-tarea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
