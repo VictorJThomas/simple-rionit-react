@@ -111,3 +111,15 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 } 
+
+.Menu-Header{
+  padding-top: 0.8rem;
+  /* border-radius: 1.7rem; */
+  /* margin-left: -0.1rem; */
+  padding-bottom: 0.9rem
+}
+
+.Menu-Top{
+  border-radius: 1.7rem;
+  margin-top: -2rem;
+}
